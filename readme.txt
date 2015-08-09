@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 creating another dev branch.
+learn stash.
+another /usr/bin/env
